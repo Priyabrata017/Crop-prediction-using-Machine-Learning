@@ -5,6 +5,7 @@
      Crop-prediction-using-Machine-Learning
     </title>
   </head>
+  <body>
   <ol type="1">
     <l1> Data Collation
 
@@ -26,3 +27,5 @@
 •	They can know what crop to cultivate and what price at which the crops should be sold to earn reasonable profit for the farmers.
 •	They can also view the necessary nutrients and fertilizers that the crop would need for its healthy growth.
 •	Any drastic change in the environmental factors could be notified to the farmers immediately.
+</body>
+</html>
