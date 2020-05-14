@@ -23,13 +23,14 @@
   </ul>
 <li>	Implementation using Android Application
 
-•	After the predicted data gets reflected in the firebase database, the farmers can view it in their mobile application. 
-•	They can know what crop to cultivate and what price at which the crops should be sold to earn reasonable profit for the farmers.
-•	They can also view the necessary nutrients and fertilizers that the crop would need for its healthy growth.
-•	Any drastic change in the environmental factors could be notified to the farmers immediately.
+<p>After the predicted data gets reflected in the firebase database, the farmers can view it in their mobile application.</p>
+<p>They can know what crop to cultivate and what price at which the crops should be sold to earn reasonable profit for the farmers</p>
+<p>They can also view the necessary nutrients and fertilizers that the crop would need for its healthy growth</p>
+<p>Any drastic change in the environmental factors could be notified to the farmers immediately</p>
 <div>
   <li> Results
     The result of the android application can be seen <a href="https://github.com/Priyabrata017/Crop-prediction-using-Machine-Learning/tree/master/Results">here</a>
+    <img src="https://github.com/Priyabrata017/Crop-prediction-using-Machine-Learning/blob/master/Results/Mango/mango%20app.jpeg?raw=true" alt="Mango">
     </div>
 </body>
 </html>
