@@ -27,5 +27,9 @@
 •	They can know what crop to cultivate and what price at which the crops should be sold to earn reasonable profit for the farmers.
 •	They can also view the necessary nutrients and fertilizers that the crop would need for its healthy growth.
 •	Any drastic change in the environmental factors could be notified to the farmers immediately.
+<div>
+  <li> Results
+    The result of the android application can be seen <a href="https://github.com/Priyabrata017/Crop-prediction-using-Machine-Learning/tree/master/Results">here</a>
+    </div>
 </body>
 </html>
