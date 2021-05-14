@@ -57,13 +57,17 @@ l.append(rain)
 predictcrop=[l]
 
 # Putting the names of crop in a single list
-crops=['wheat','mungbean','Tea','millet','maize','lentil','jute','cofee','cotton','ground nut','peas','rubber','sugarcane','tobacco','kidney beans','moth beans','coconut','blackgram','adzuki beans','pigeon peas','chick peas','banana','grapes','apple','mango','muskmelon','orange','papaya','watermelon','pomegranate']
-cr='rice'
+crops=['Blackgram', 'Chickpea', 'Coconut', 'Coffee', 'Cotton', 'Ground Nut', 'Jute', 'Kidney Beans',
+       'Lentil', 'Moth Beans', 'Mung Bean', 'Peas', 'Pigeon Peas', 'Rubber',
+       'Sugarcane', 'Tea', 'Tobacco', 'apple', 'banana', 'grapes', 'maize',
+       'mango', 'millet', 'muskmelon', 'orange', 'papaya', 'pomegranate',
+       'rice', 'watermelon', 'wheat']
+cr = 'Blackgram'
 
 #Predicting the crop
 predictions = clf.predict(predictcrop)
 count=0
-for i in range(0,30):
+for i in range(31):
     if(predictions[0][i]==1):
         c=crops[i]
         count=count+1
