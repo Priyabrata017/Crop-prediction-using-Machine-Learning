@@ -57,8 +57,7 @@ l.append(rain)
 predictcrop=[l]
 
 # Putting the names of crop in a single list
-crops=['Blackgram', 'Chickpea',
-       'Coconut', 'Coffee', 'Cotton', 'Ground Nut', 'Jute', 'Kidney Beans',
+crops=['Blackgram', 'Chickpea', 'Coconut', 'Coffee', 'Cotton', 'Ground Nut', 'Jute', 'Kidney Beans',
        'Lentil', 'Moth Beans', 'Mung Bean', 'Peas', 'Pigeon Peas', 'Rubber',
        'Sugarcane', 'Tea', 'Tobacco', 'apple', 'banana', 'grapes', 'maize',
        'mango', 'millet', 'muskmelon', 'orange', 'papaya', 'pomegranate',
